@@ -1,5 +1,7 @@
 # cloudflare-pages-action-demo
 
+[![publish-to-cloudflare-pages](https://github.com/remarkablemark/cloudflare-pages-action-demo/actions/workflows/publish-to-cloudflare-pages.yml/badge.svg)](https://github.com/remarkablemark/cloudflare-pages-action-demo/actions/workflows/publish-to-cloudflare-pages.yml)
+
 [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) demo.
 
 ## Setup

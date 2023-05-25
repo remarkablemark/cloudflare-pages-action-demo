@@ -40,6 +40,8 @@ Copy your [Cloudflare's account ID](https://developers.cloudflare.com/fundamenta
 https://dash.cloudflare.com/abcdef1234567890abcdef1234567890
 ```
 
+> Your account ID is a hexadecimal string that looks like `abcdef1234567890abcdef1234567890`
+
 Create a **New repository secret** like the previous step:
 
 ```
